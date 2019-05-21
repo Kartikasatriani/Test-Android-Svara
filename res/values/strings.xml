@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LatTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="si">Sign In</string>
+	<string name="user">Username/email</string>
+	<string name="pass">Password</string>
+</resources>
